@@ -1,0 +1,3 @@
+# XR Origin Setup
+
+Sesi ini akan menginstal Unity's XR Interaction Toolkit, sebuah kerangka kerja kuat untuk menciptakan pengalaman AR/VR lintas platform dengan mudah. Toolkit ini terintegrasi dengan baik di Unity dan menawarkan solusi efisien untuk mengembangkan pengalaman VR dan AR canggih. Saat ini, toolkit ini mendukung ARCore, ARKit, Hololens, Magic Leap, Meta Quest, dan OpenXR. Kita akan menggunakan XR Interaction Toolkit untuk fungsionalitas utama VR dalam sesi ini. Setelah menyelesaikan sesi ini, Anda dapat mengecek repositori resmi di Github untuk mendapatkan sumber daya tambahan bagi pengembang XR.

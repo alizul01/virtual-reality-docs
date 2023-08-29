@@ -5,9 +5,9 @@ Unity digunakan karena unity telah menjadi yang terdepan dalam merevolusi VR, ka
 
 
 1. Kunjungi [Unity Real-Time Development Platform | 3D, 2D, VR & AR Engine](https://unity.com/) , kemudian klik **Download.**\
-   ![](../.gitbook/assets/image.png)
-2. Scroll kebawah, pilih **Download the unity hub.**\
    ![](<../.gitbook/assets/image (1).png>)
+2. Scroll kebawah, pilih **Download the unity hub.**\
+   ![](<../.gitbook/assets/image (1) (1).png>)
 3. Setelah Download dan install, pilih **Installs** pada _sidebar_, kemudian klik **Install Editor** untuk memilih versi dari _unity editor._\
    ![](<../.gitbook/assets/image (2).png>)
 4. Kemudian akan muncul beberapa versi dari unity, pilih versi _LTS_ terbaru yaitu **2022.3 .** (catatan: ini merupakan versi minimal yang dapat digunakan disini)\
